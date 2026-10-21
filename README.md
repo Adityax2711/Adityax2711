@@ -1,5 +1,5 @@
 # 💫 About Me:
-Namaste! I’m Aditya, a Computer Science and Engineering  Student (Blockchain specialisation)  at VIT Vellore. <br>a CSE student specialising in Blockchain, <br>exploring smart contracts, decentralised systems,<br> and also learning Python, Java, OOPS New Tools and technology Gen-AI, and <br>to build intelligent and scalable digital solutions in the real world.<br><br>
+   Namaste! I’m Aditya, a Computer Science and Engineering Student (Blockchain specialisation) at VIT Vellore. a CSE student specialising in Blockchain, exploring smart contracts, decentralised systems, and also learning Python, Java, OOPS New Tools and technology Gen-AI, and to build intelligent and scalable digital solutions in the real world."  <br><br>
 
 
 ## 🌐 Socials:
